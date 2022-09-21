@@ -19,5 +19,5 @@ leap,
 merge two sorts,
 regular expression,
 remove common words,
-sum square,
-Day 3:
+keywords,
+Day 3:-
