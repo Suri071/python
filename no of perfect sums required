@@ -7,6 +7,6 @@ def getMinSquares(n):
         if temp > n:
             break
         else:
-            res = min(res, 1 + getMinSquares - temp))
+            res = min(res, 1 + getMinSquares(n - temp))
     return res;
 print(getMinSquares(6))
